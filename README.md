@@ -30,9 +30,18 @@ Each round adds one more step, if you get one wrong the game resets :( .
 
 It has two difficulty modes; Easy Mode (where lights lightup slowly and more time is given to click the button) and, Hard Mode (Vice Versa of easy mode)
 
+> **The longest sequence is 50 steps. Beat it and you get a victory animation. :)** 
 
+---
 
+## How to play
 
+### 1. Power on. The LEDs chase back and forth while the game waits for you.
+### 2. Normal mode: tap any button to start.
+### 3. Hard mode: press and hold Button 1 for about 0.6 seconds. Four quick blinks confirm hard mode.
+### 4. Watch the LED sequence, then repeat it by pressing the matching buttons in order.
+### 5. Each correct round adds one more step and the game speeds up slightly.
+### 6. A wrong button or a timeout makes all LEDs blink three times, and the game resets. You can pick normal or hard mode again.
 
 
 
