@@ -49,6 +49,16 @@ It has two difficulty modes; Easy Mode (where lights lightup slowly and more tim
 ### 6. A wrong button or a timeout makes all LEDs blink three times, and the game resets. You can pick normal or hard mode again.
 
 
+## Difficulty Settings 
+
+| Setting | Normal | Hard |
+|---|---:|---|
+| Time allowed per button press | 5s | 3s |
+| LED on-time (start) | 450ms | 280ms |
+| Gap between LEDs (start) | 200ms | 110ms |
+| Speed-up each round | Gentle | Aggressive |
+
+
 ## Project Gallery
 
 ### SCHEMATIC
@@ -87,16 +97,14 @@ I've spent over 4 hours designing it, I know this is a pretty bad design but mys
 
 #### Bottom Case 
 
-<p align="center">
-  <img src="Screenshot 2026-11-08 225307" width="49%" />
-  <img src="Screenshot 2026-11-08 225403" width="49%" />
-</p>
 
 <img width="778" height="541" alt="Screenshot 2026-11-08 225307" src="https://github.com/user-attachments/assets/c300fd7c-12a3-4635-ad57-02e6110998da" />
 
 
 <img width="954" height="526" alt="Screenshot 2026-11-08 225403" src="https://github.com/user-attachments/assets/c4035d7a-f5df-4ca5-9b97-e8405996774a" />
 
+
+---
 
 
 
