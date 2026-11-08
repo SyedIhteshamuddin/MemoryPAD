@@ -88,6 +88,9 @@ This PCB has 0 DRC ERRORs :) except some silkscreen warnings (which is negotiabl
 This project CAD Designing was done on Onshape and professional Photos were taken in Autodesk Fusion :) 
 I've spent over 4 hours designing it, I know this is a pretty bad design but myself who consider themselves as a beginner its pretty good for me! 💀
 
+Check out the design : https://oauth.onshape.com/documents/014831d8ea70480e354d2062/w/38ff175849a8cf937e522ad1/e/ec4d4643da502ab6ee4258d4?renderMode=0&uiState=6af0984c679dc84116f42d09
+
+
 #### Assembly View
 
 <img width="871" height="536" alt="MemoryPAD-SideView" src="https://github.com/user-attachments/assets/173228b6-ca0c-4ab2-aa1d-541beff9a26d" />
