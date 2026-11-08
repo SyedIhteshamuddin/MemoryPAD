@@ -49,6 +49,7 @@ It has two difficulty modes; Easy Mode (where lights lightup slowly and more tim
 ### 6. A wrong button or a timeout makes all LEDs blink three times, and the game resets. You can pick normal or hard mode again.
 
 
+
 ## Difficulty Settings 
 
 | Setting | Normal | Hard |
@@ -58,6 +59,8 @@ It has two difficulty modes; Easy Mode (where lights lightup slowly and more tim
 | Gap between LEDs (start) | 200ms | 110ms |
 | Speed-up each round | Gentle | Aggressive |
 
+
+---
 
 ## Project Gallery
 
@@ -106,14 +109,34 @@ I've spent over 4 hours designing it, I know this is a pretty bad design but mys
 
 ---
 
+## Firmware
+
+The Firmware was coded in Arduino IDE with the help of Claude AI. I also tested it on Wowki.com. 
+
+(I Have zero ball knowledge in coding so i used the help of AI 🤖)
+
+Later, I tested the code in wowki and it works! check out the link below to test it yourself!
+
+#### Wowki-Project Link :  https://wokwi.com/projects/480042506226324481
+
+<img width="1919" height="896" alt="firmware testing pic wowki" src="https://github.com/user-attachments/assets/7fab5f7b-121c-40a1-9b29-924fc820588a" />
+
+<img width="1274" height="943" alt="Screenshot 2026-11-07 205133" src="https://github.com/user-attachments/assets/105ef6f2-21b7-446a-ab20-e47a797862c1" />
 
 
+---
 
+## BOM - Bill of Materials
 
-
-
-
-
+| # | Component | Qty | Source | Price |
+|---|---|---:|---|
+| 1 | Seeed Studio XIAO RP2040 | 1 | https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/ | ~6$ |
+| 2 | MX-Style Switches | 4 | https://www.amazon.in/Satmarhz-Mechanical-Keyboard-Switches-mechanical/dp/B0HJYNT2W7/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.mTBvqGG2uqEAxT-1kS6igjgGL5Wqqx1Vwlw2sl_e4btvlBplvmQ74RlM55vIIidWh_Eb_C3Gv59j4iSjulf51OIYY0OdBpjHuKviokFms3A5a9nVMiE4ByCoe5C-Bdl8naVV9mctKkRzj5VZu0b6qdSExzu1MxzBNbDkFK87DtUR0H2lpgVVD9aesWXMNZV5jGu5uOEnRCLVf-aAxvEUTc5UNPCkYI1w529nf0xrgHU.R7B8Wi3NWKFqw39Y0uwiYdYyFf3ggf7MSdyl9aEk8gc&dib_tag=se&keywords=cherry+mx+red+switches&nsdOptOutParam=true&qid=1794162239&sr=8-2-spons&aref=lMElvKNMWv&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 | ~5.6$ |
+| 3 | White Blank DSA Keycaps | 4 | (https://www.amazon.in/International-Mechanical-Keyboard-Compatible-Accessory/dp/B0H75Z21F6/ref=sr_1_13?crid=1JLYXHEI2CRNT&dib=eyJ2IjoiMSJ9.1kBH2KkV6YM9Mqzin_IKO0etw5TYQqF0JZ73tFZ6gj948o-mUWDfxMOhR87JZpxy3IQvAX-9VB_JQWKgY-UWVHC3mlvS2X-cihHj_MSxznF62ESxCpCFMcLdsw0goIMOLQrWAvNurYVMpJEwPRv7dltpdlgzFFpZzcrIxuCyksh5pz49lxEiDp3OKhdBnN3EUyoyqWZdQVkOss8ma90LC9ugmZ6zVil_WsB4tklzmzU.5RDTnacTDxza1nyAYF-_BXZAeqfuF-euCjsYqNvoIdU&dib_tag=se&keywords=mx+keyboard+switches+keycaps&qid=1794162469&sprefix=mx+keyboard+switches+keycaps%2Caps%2C343&sr=8-13) | ~5.4$ |
+| 4 | Resistors | 4 | https://robu.in/product/60pcs-taping-metal-film-resistor-14w-1pct-resistance-package/ | ~1.15$ |
+| 5 | M3 × 16mm Screws | 2 | https://robu.in/product/easymech-m3-x-16mm-hex-allen-csk-ss-304-screw-dia-3mm-length-16mm/ | ~0.4$ |
+| 6 | Custom PCB | 1 | robu.in | ~12$ |
+| 6 | 3d Printed CASE | 1 | Printing Legion | ~12$ |
 
 
 
