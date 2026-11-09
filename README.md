@@ -132,20 +132,6 @@ Later, I tested the code in wowki and it works! check out the link below to test
 ## BOM - Bill of Materials
 
 
-| # | Component | Qty | Source | Price | Total Cost (Incl. Shipping) |
-|---|---|---:|---|---|---|
-| 1 | Seeed Studio XIAO RP2040 | 1 | [Link](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) | ~$6.00 | |
-| 2 | MX-Style Switches | 4 | [Link](https://www.amazon.in/Satmarhz-Mechanical-Keyboard-Switches-mechanical/dp/B0HJYNT2W7/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.mTBvqGG2uqEAxT-1kS6igjgGL5Wqqx1Vwlw2sl_e4btvlBplvmQ74RlM55vIIidWh_Eb_C3Gv59j4iSjulf51OIYY0OdBpjHuKviokFms3A5a9nVMiE4ByCoe5C-Bdl8naVV9mctKkRzj5VZu0b6qdSExzu1MxzBNbDkFK87DtUR0H2lpgVVD9aesWXMNZV5jGu5uOEnRCLVf-aAxvEUTc5UNPCkYI1w529nf0xrgHU.R7B8Wi3NWKFqw39Y0uwiYdYyFf3ggf7MSdyl9aEk8gc&dib_tag=se&keywords=cherry+mx+red+switches&nsdOptOutParam=true&qid=1794162239&sr=8-2-spons&aref=lMElvKNMWv&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | ~$5.60 | |
-| 3 | White Blank DSA Keycaps | 4 | [Link](https://www.amazon.in/International-Mechanical-Keyboard-Compatible-Accessory/dp/B0H75Z21F6/ref=sr_1_13?crid=1JLYXHEI2CRNT&dib=eyJ2IjoiMSJ9.1kBH2KkV6YM9Mqzin_IKO0etw5TYQqF0JZ73tFZ6gj948o-mUWDfxMOhR87JZpxy3IQvAX-9VB_JQWKgY-UWVHC3mlvS2X-cihHj_MSxznF62ESxCpCFMcLdsw0goIMOLQrWAvNurYVMpJEwPRv7dltpdlgzFFpZzcrIxuCyksh5pz49lxEiDp3OKhdBnN3EUyoyqWZdQVkOss8ma90LC9ugmZ6zVil_WsB4tklzmzU.5RDTnacTDxza1nyAYF-_BXZAeqfuF-euCjsYqNvoIdU&dib_tag=se&keywords=mx+keyboard+switches+keycaps&qid=1794162469&sprefix=mx+keyboard+switches+keycaps%2Caps%2C343&sr=8-13) | ~$5.40 | |
-| 4 | Resistors | 4 | [Link](https://robu.in/product/60pcs-taping-metal-film-resistor-14w-1pct-resistance-package/) | ~$1.15 | |
-| 5 | M3 × 16mm Screws | 2 | [Link](https://robu.in/product/easymech-m3-x-16mm-hex-allen-csk-ss-304-screw-dia-3mm-length-16mm/) | ~$0.40 | |
-| 6 | Custom PCB | 1 | [Robu.in](https://robu.in) | ~$12.00 | |
-| 7 | 3D Printed Case | 1 | Printing Legion | ~$12.00 | |
-| **Total** | **Complete Build** | | | **~$50.00 (Est.)** | **~$50.00** |
-
-
-### Bill of Materials (BOM)
-
 | # | Component | Description / Specs | Qty | Source / Vendor | Unit Price | Total Price |
 |---|---|---:|---|---|---|---|
 | 1 | Microcontroller | Seeed Studio XIAO RP2040 | 1 | [Robu.in](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) | ~$6.00 | ~$6.00 |
@@ -158,6 +144,8 @@ Later, I tested the code in wowki and it works! check out the link below to test
 | 8 | Logistics | Shipping Fees & Taxes | - | Various | - | ~$7.45 |
 | | | | | **Subtotal** | | **~$42.55** |
 | | | | | **GRAND TOTAL** | | **$50.00** |
+
+
 ---
 ## AI Usage
 
