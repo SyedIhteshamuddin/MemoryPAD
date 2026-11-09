@@ -143,6 +143,21 @@ Later, I tested the code in wowki and it works! check out the link below to test
 | 7 | 3D Printed Case | 1 | Printing Legion | ~$12.00 | |
 | **Total** | **Complete Build** | | | **~$50.00 (Est.)** | **~$50.00** |
 
+
+### Bill of Materials (BOM)
+
+| # | Component | Description / Specs | Qty | Source / Vendor | Unit Price | Total Price |
+|---|---|---:|---|---|---|---|
+| 1 | Microcontroller | Seeed Studio XIAO RP2040 | 1 | [Robu.in](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) | ~$6.00 | ~$6.00 |
+| 2 | Switches | MX-Style Mechanical Switches | 4 | [Amazon.in](https://www.amazon.in/Satmarhz-Mechanical-Keyboard-Switches-mechanical/dp/B0HJYNT2W7/) | ~$1.40 | ~$5.60 |
+| 3 | Keycaps | White Blank DSA Keycaps | 4 | [Amazon.in](https://www.amazon.in/International-Mechanical-Keyboard-Compatible-Accessory/dp/B0H75Z21F6/) | ~$1.35 | ~$5.40 |
+| 4 | Resistors | Metal Film Resistors (Pack) | 1 | [Robu.in](https://robu.in/product/60pcs-taping-metal-film-resistor-14w-1pct-resistance-package/) | ~$1.15 | ~$1.15 |
+| 5 | Hardware | M3 × 16mm Screws | 2 | [Robu.in](https://robu.in/product/easymech-m3-x-16mm-hex-allen-csk-ss-304-screw-dia-3mm-length-16mm/) | ~$0.20 | ~$0.40 |
+| 6 | PCB | Custom 2-Layer PCB | 1 | Robu.in | ~$12.00 | ~$12.00 |
+| 7 | Enclosure | 3D Printed Case | 1 | Printing Legion | ~$12.00 | ~$12.00 |
+| 8 | Logistics | Shipping Fees & Taxes | - | Various | - | ~$7.45 |
+| | | | | **Subtotal** | | **~$42.55** |
+| | | | | **GRAND TOTAL** | | **$50.00** |
 ---
 ## AI Usage
 
