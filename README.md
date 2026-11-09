@@ -141,7 +141,7 @@ Later, I tested the code in wowki and it works! check out the link below to test
 | 5 | M3 × 16mm Screws | 2 | [Link](https://robu.in/product/easymech-m3-x-16mm-hex-allen-csk-ss-304-screw-dia-3mm-length-16mm/) | ~$0.40 | |
 | 6 | Custom PCB | 1 | [Robu.in](https://robu.in) | ~$12.00 | |
 | 7 | 3D Printed Case | 1 | Printing Legion | ~$12.00 | |
-| **Total** | **Complete Build** | | | **~$42.55 (Est.)** | **~$50.00** |
+| **Total** | **Complete Build** | | | **~$50.00 (Est.)** | **~$50.00** |
 
 ---
 ## AI Usage
